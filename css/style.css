@@ -1,4 +1,41 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
 }
+
+ul{
+    list-style: none;
+}
+
+button{
+    border: none;
+}
+
+/* fonts
+    
+    .noto-serif-georgian-<uniquifier> {
+    font-family: "Noto Serif Georgian", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+
+
+    .source-sans-3-<uniquifier> {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    }
+
+} */
+
+html {
+    font-family: "Noto Serif Georgian", serif;
+}
+
+
