@@ -101,6 +101,10 @@ a {
     text-align: center;
 }
 
+.article__main .article__p{
+    font-size: 2.2rem;
+}
+
 .section__welcome button,
 .article__main button {
     border-radius: 5rem;
@@ -332,6 +336,7 @@ a {
     border-top: .2rem solid #eeeeee;
     border-left: .1rem solid #eeeeee;
     border-right: .1rem solid #eeeeee;
+    
 }
 
 .posts article > *, .section__welcome > *{
